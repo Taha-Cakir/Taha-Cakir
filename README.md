@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taha-Cakir
-- 👀 I’m interested in all software and coding.
+- 👀 I’m interested in all about software and trying to learn every detail of it.
 - 🌱 I’m currently learning swiftUI
 - 💞️ I’m looking to collaborate on my social media opinion,i can help you for your project too.
 - 📫 How to reach me,i am checking github everyday.
